@@ -3,6 +3,9 @@
 ## Purpose
 Turn an approved initiative into an actionable plan and backlog for delivery.
 
+## Quick Reference
+- [Role-Responsibility Matrix](role-responsibility-matrix.md) — Use to clarify ownership and decision-making for key activities
+
 ## Objectives
 - Break work into shippable increments
 - Identify dependencies and risks
@@ -15,6 +18,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. Assign roles and responsibilities using the [Role-Responsibility Matrix](role-responsibility-matrix.md)
 
 ## Backlog Item Template
 - Title:
@@ -24,6 +28,13 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Estimate:
 - Owner:
 - Related docs/links:
+
+## Team Structure & Roles
+When creating the Project One-pager, include a "Proposed team / roles" section that identifies:
+- Core roles (Product Manager, Project Manager, Developers, QA Lead)
+- Additional personas as needed (UX Designer, DevOps Engineer, Scrum Master, Business Analyst, Security Liaison, etc.)
+- Refer to [Roles & Personas](octoacme-roles-and-personas.md) for descriptions and responsibilities
+- Use the [Role-Responsibility Matrix](role-responsibility-matrix.md) to clarify RACI for key activities
 
 ## Sprint / Iteration Planning
 - Timebox planning to agreed sprint length
